@@ -1,0 +1,45 @@
+ Guests Info
+------------------------------------------------------------
+
+              Reservation Data of Room no.: 503
+
+The Name of the Guest is: deepak yadav
+
+Mobile No.: +7739014205
+
+Name of Manager in Charge is: bipin
+
+Date: 15/2
+
+
+------------------------------------------------------------
+ Guests Info
+------------------------------------------------------------
+
+              Reservation Data of Room no.: 501
+
+The Name of the Guest is: ashwini kumar roushan
+
+Mobile No.: +7562852936
+
+Name of Manager in Charge is: deepak yadaav
+
+Date: 32/13/3016
+
+
+------------------------------------------------------------
+ Guests Info
+------------------------------------------------------------
+
+              Reservation Data of Room no.: 122
+
+The Name of the Guest is: deepak kumar
+
+Mobile No.: +917739014205
+
+Name of Manager in Charge is: adggdf
+
+Date: 12/2/2333
+
+
+------------------------------------------------------------
